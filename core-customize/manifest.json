@@ -25,7 +25,6 @@
         "sapproductconfigb2bservices",
         "b2bordermanagementfacades",
         "b2bordermanagementwebservices",
-        "saporderexchangeb2b",
         "saporderexchangeomsb2b",
         "sapcentralorderb2bfacades",
         "sapcustomerb2b",
