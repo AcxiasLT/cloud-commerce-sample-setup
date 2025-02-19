@@ -404,6 +404,18 @@
                     "value": "true"
                 },
                 {
+                    "key": "spring.session.yb2bacceleratorstorefront.save",
+                    "value": "async"
+                },
+                {
+                    "key": "spring.session.yb2bacceleratorstorefront.cookie.name",
+                    "value": "JSESSIONID"
+                },
+                {
+                    "key": "spring.session.yb2bacceleratorstorefront.cookie.path",
+                    "value": ""
+                },
+                {
                     "key": "storefrontContextRoot",
                     "value": ""
                 },
@@ -428,6 +440,10 @@
                 {
                     "name": "acceleratorservices",
                     "contextPath": "/acceleratorservices"
+                },
+                {
+                    "name": "yb2bacceleratorstorefront",
+                    "contextPath": ""
                 },
                 {
                     "name": "b2bpunchout",
