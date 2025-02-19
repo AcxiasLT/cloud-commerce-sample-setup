@@ -15,6 +15,42 @@
                 "yacceleratorstorefront"
             ],
             "template": "yacceleratorstorefront"
+        },
+        {
+            "addons": [
+                "orderselfserviceaddon"
+            ],
+            "storefronts": [
+                "yb2bacceleratorstorefront"
+            ],
+            "template": "yacceleratorstorefront"
+        },
+        {
+            "addons": [
+                "acceleratorwebserviceaddon"
+            ],
+            "storefronts": [
+                "yb2bacceleratorstorefront"
+            ],
+            "template": "yacceleratorstorefront"
+        },
+        {
+            "addons": [
+                "b2bacceleratoraddon"
+            ],
+            "storefronts": [
+                "yb2bacceleratorstorefront"
+            ],
+            "template": "yacceleratorstorefront"
+        },
+        {
+            "addons": [
+                "commerceorgaddon"
+            ],
+            "storefronts": [
+                "yb2bacceleratorstorefront"
+            ],
+            "template": "yacceleratorstorefront"
         }
     ],
     "useConfig": {
