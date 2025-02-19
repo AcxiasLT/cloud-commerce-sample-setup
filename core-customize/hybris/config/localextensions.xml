@@ -19,6 +19,7 @@
 	  <extension name= 'assistedserviceyprofilefacades' />
 	  <extension name= 'yaasyprofileconnect' />
 	  <extension name= 'b2bacceleratorfacades' />
+	  <extension name= 'acceleratorwebserviceaddon' />
 	  <extension name= 'b2bacceleratorservices' />
 	  <extension name= 'b2bocc' />
 	  <extension name= 'b2bocctests' />
