@@ -5,6 +5,7 @@
     
     <path dir='${HYBRIS_BIN_DIR}' autoload='false' />
 	  <extension name= 'adaptivesearch' />
+	  <extension name= 'acceleratorwebservicesaddon' />
 	  <extension name= 'adaptivesearchbackoffice' />
 	  <extension name= 'adaptivesearchfacades' />
 	  <extension name= 'adaptivesearchsolr' />
