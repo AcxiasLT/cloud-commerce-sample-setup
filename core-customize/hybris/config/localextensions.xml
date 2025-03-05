@@ -264,14 +264,31 @@
 
 <!-- Configuring Required Extensions and AddOns for SAP Commerce integration with SAP Cloud Platform Integration -->
 <!-- https://help.sap.com/viewer/product/SAP_COMMERCE_INTEGRATIONS/latest -->
-    <!--<extension name='sapcpiadapter'/>
+    <extension name='ysapcpiomsfulfillment'/>
+	<extension name='sapcpicustomerexchange'/>
+	<extension name='sapcpicustomerexchangeb2b'/>
+	<extension name='sapcpiorderexchangeb2b'/>
+	<extension name='sapcpiorderexchangeoms'/>
+	<extension name='sapcpiorderexchangeomsb2b'/>
+	<extension name='saporderexchangebackoffice'/>
+	<extension name='sapcpiproductexchange'/>
+	<extension name='sapcore'/>
+	<extension name='sapcoreconfiguration'/>
+	<extension name='sapcustomerb2b'/>
+	<extension name='sapcustomerb2bbackoffice'/>
+	<extension name='sapmodel'/>
+	<extension name='ysapomsfulfillment'/>
+	<extension name='saporderexchangeoms'/>
+	<extension name='saporderexchangeomsb2b'/>
+
+	<extension name='sapcpiadapter'/>
     <extension name='sapcpiorderexchange'/>
     <extension name='ysaporderfulfillment'/>
     <extension name='integrationbackoffice'/>
     <extension name='sapcoreconfigurationbackoffice'/>
     <extension name='sapmodelbackoffice'/>
     <extension name='saporderexchangebackoffice'/>
-    <extension name='sapcoreaddon'/>-->
+    <extension name='sapcoreaddon'/>
 
 
   </extensions>
