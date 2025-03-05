@@ -27,15 +27,6 @@
         },
         {
             "addons": [
-                "acceleratorwebservicesaddon"
-            ],
-            "storefronts": [
-                "yb2bacceleratorstorefront"
-            ],
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addons": [
                 "b2bacceleratoraddon"
             ],
             "storefronts": [
