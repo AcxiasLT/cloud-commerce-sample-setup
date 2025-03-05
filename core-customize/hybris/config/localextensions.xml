@@ -277,13 +277,11 @@
 	<extension name='sapcustomerb2b'/>
 	<extension name='sapcustomerb2bbackoffice'/>
 	<extension name='sapmodel'/>
-	<extension name='ysapomsfulfillment'/>
 	<extension name='saporderexchangeoms'/>
 	<extension name='saporderexchangeomsb2b'/>
 
 	<extension name='sapcpiadapter'/>
     <extension name='sapcpiorderexchange'/>
-    <extension name='ysaporderfulfillment'/>
     <extension name='integrationbackoffice'/>
     <extension name='sapcoreconfigurationbackoffice'/>
     <extension name='sapmodelbackoffice'/>
