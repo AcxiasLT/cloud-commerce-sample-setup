@@ -264,7 +264,7 @@
 
 <!-- Configuring Required Extensions and AddOns for SAP Commerce integration with SAP Cloud Platform Integration -->
 <!-- https://help.sap.com/viewer/product/SAP_COMMERCE_INTEGRATIONS/latest -->
-    <extension name='ysapcpiomsfulfillment'/>
+    <!--extension name='ysapcpiomsfulfillment'/-->
 	<extension name='sapcpicustomerexchange'/>
 	<extension name='sapcpicustomerexchangeb2b'/>
 	<extension name='sapcpiorderexchangeb2b'/>
