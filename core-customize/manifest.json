@@ -203,6 +203,18 @@
             "value": "${ccv2.services.jsapps.url.0}"
         },
         {
+            "key": "website.powertools.http",
+            "value": "http://powertools.local:9001/yb2bacceleratorstorefront"
+        },
+        {
+            "key": "website.powertools.https",
+            "value": "https://powertools.local:9002/yb2bacceleratorstorefront"
+        },
+        {
+            "key": "yb2bacceleratorstorefront.webroot",
+            "value": ""
+        },
+        {
             "key": "website.powertools-spa.https",
             "value": "${ccv2.services.jsapps.url.0}"
         },
