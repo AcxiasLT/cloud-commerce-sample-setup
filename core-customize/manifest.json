@@ -1,10 +1,9 @@
 {
-    "commerceSuiteVersion": "2211.37",
-    "enableImageProcessingService": true,	
+    "commerceSuiteVersion": "2211.33",
+    "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
-        "mediaconversionbackoffice",
-        "yb2bacceleratorstorefront"
+        "mediaconversionbackoffice"
     ],
     "storefrontAddons": [
         {
@@ -13,51 +12,6 @@
             ],
             "storefronts": [
                 "yacceleratorstorefront"
-            ],
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addons": [
-                "orderselfserviceaddon"
-            ],
-            "storefronts": [
-                "yb2bacceleratorstorefront"
-            ],
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addons": [
-                "b2bacceleratoraddon"
-            ],
-            "storefronts": [
-                "yb2bacceleratorstorefront"
-            ],
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addons": [
-                "commerceorgaddon"
-            ],
-            "storefronts": [
-                "yb2bacceleratorstorefront"
-            ],
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addons": [
-                "captchaaddon"
-            ],
-            "storefronts": [
-                "yb2bacceleratorstorefront"
-            ],
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addons": [
-                "customerticketingaddon"
-            ],
-            "storefronts": [
-                "yb2bacceleratorstorefront"
             ],
             "template": "yacceleratorstorefront"
         }
@@ -358,18 +312,6 @@
                     "value": "true"
                 },
                 {
-                    "key": "spring.session.yb2bacceleratorstorefront.save",
-                    "value": "async"
-                },
-                {
-                    "key": "spring.session.yb2bacceleratorstorefront.cookie.name",
-                    "value": "JSESSINOID"
-                },
-                {
-                    "key": "spring.session.yb2bacceleratorstorefront.cookie.path",
-                    "value": ""
-                },
-                {
                     "key": "storefrontContextRoot",
                     "value": ""
                 },
@@ -390,10 +332,6 @@
                 {
                     "name": "mediaweb",
                     "contextPath": "/medias"
-                },
-                {
-                    "name": "yb2bacceleratorstorefront",
-                    "contextPath": ""
                 },
                 {
                     "name": "acceleratorservices",
