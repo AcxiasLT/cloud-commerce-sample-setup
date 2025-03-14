@@ -222,11 +222,11 @@
         },
         {
             "key": "website.powertools.http",
-            "value": "http://powertools.local:9001/yb2bacceleratorstorefront"
+            "value": "http://powertools.local:9001"
         },
         {
             "key": "website.powertools.https",
-            "value": "https://powertools.local:9002/yb2bacceleratorstorefront"
+            "value": "https://powertools.local:9002"
         },
         {
             "key": "website.powertools-spa.https",
