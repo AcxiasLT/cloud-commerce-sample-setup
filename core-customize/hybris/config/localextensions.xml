@@ -32,9 +32,13 @@
 	  <extension name= 'b2bcommercebackoffice' />
 	  <extension name= 'b2bcommercefacades' />
 	  <extension name= 'b2bpunchout' />
-      <extension name= 'b2bpunchoutbackoffice' />
-      <extension name= 'b2bpunchoutocc' />
-      <extension name= 'b2bpunchoutocctests' />
+	  <extension name= 'addonsupport' />
+	  <extension name= 'b2bpunckoutaddon' />
+	  <extension name= 'acceleratorstorefrontcommons' />
+ 	  <extension name= 'yb2bacceleratorstorefront' />
+      	  <extension name= 'b2bpunchoutbackoffice' />
+          <extension name= 'b2bpunchoutocc' />
+          <extension name= 'b2bpunchoutocctests' />
 	  <extension name= 'apparelstore' />
 	  <extension name= 'electronicsstore' />
 	  <extension name= 'wishlist' />
