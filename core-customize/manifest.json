@@ -31,15 +31,6 @@
             ],
             "template": "yacceleratorstorefront"
         },
-        {
-            "addons": [
-                "acceleratorstorefrontcommons"
-            ],
-            "storefronts": [
-                "yb2bacceleratorstorefront"
-            ],
-            "template": "yacceleratorstorefront"
-        },
 	{
             "addons": [
                 "b2bpunchoutaddon"
