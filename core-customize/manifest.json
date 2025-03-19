@@ -219,11 +219,11 @@
         },
         {
             "key": "website.powertools.http",
-            "value": "http://powertools.local:9001"
+            "value": "http://accstorefront.ckdcrwdjg2-acxiasazu1-d1-public.model-t.cc.commerce.ondemand.com"
         },
         {
             "key": "website.powertools.https",
-            "value": "https://powertools.local:9002"
+            "value": "https://accstorefront.ckdcrwdjg2-acxiasazu1-d1-public.model-t.cc.commerce.ondemand.com"
         },
         {
             "key": "website.powertools-spa.https",
