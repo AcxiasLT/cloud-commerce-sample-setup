@@ -390,11 +390,11 @@
                 },
                 {
                     "key": "spring.session.yb2bacceleratorstorefront.cookie.path",
-                    "value": "/yb2bacceleratorstorefront"
+                    "value": ""
                 },
                 {
                     "key": "storefrontContextRoot",
-                    "value": ""
+                    "value": "/yb2bacceleratorstorefront"
                 },
                 {
                     "key": "sapproductconfig.providerFactoryBeanName",
